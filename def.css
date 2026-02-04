@@ -1,0 +1,20 @@
+html {
+    background-color: aqua;
+    color: rgb(11, 64, 64);
+    border-style: solid;
+    box-sizing: content-box;
+    border-width: 1cap;
+
+}
+
+header {
+    border-style: solid;
+    border-color: rgb(36, 133, 133);
+    border-width: 5px;
+    background-color: rgb(182, 221, 208);
+    color: rgb(155, 186, 218);
+}
+
+footer {
+    background-color: rgb(83, 134, 134);
+}

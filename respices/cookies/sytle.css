@@ -1,0 +1,8 @@
+head {
+    color: rgb(9, 49, 49);
+}
+
+header {
+    border-style: solid;
+    box-sizing: content-box;
+}
